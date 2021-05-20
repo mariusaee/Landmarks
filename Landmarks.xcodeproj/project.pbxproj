@@ -90,8 +90,8 @@
 		29BC61BD26567B890053C391 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				29BC61B9265677820053C391 /* Landmark.swift */,
 				29BC61BB265679EC0053C391 /* ModelData.swift */,
+				29BC61B9265677820053C391 /* Landmark.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
